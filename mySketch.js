@@ -94,7 +94,7 @@ function draw() {
 		if (frameCount % 60 < 40) {
 			text('Use LEFT,RIGHT,and UP Arrows to Play', width / 2, height / 2 - 265);
 			textSize(10);
-			text('Click the Screen to Try Before Start', width / 2, height / 2 - 235);
+			text('Try Before Start', width / 2, height / 2 - 235);
 		}
 		// rect(platform.x, platform.y+20, platform.w, platform.h);
 		textSize(40);
