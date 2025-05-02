@@ -8,19 +8,24 @@
 
 ## 🎮 Description
 
-The city is dense, dark, and quiet—too quiet.  
+The city is dense, dark, and quiet—too quiet.
+
 You were never meant to stay.
 
-Somewhere above the noise, the smoke, and the stone,  
-there’s silence. There’s sky.  
-You stack your way upward—alone, as the city disappears below.
+Somewhere above the noise, the smoke, and the stone,
+there’s silence. There’s sky.
+
+You stack your way upward—alone, until the sky forgets the ground.
+
+Brick by brick, you build your escape.
 
 ---
 
 ## 🕹️ Controls
 
-- `↑` or `SPACE` — Jump  
-- `←` and `→` — Move left and right  
+- `↑` - Jump  
+- `←` and `→` - Move left and right
+- or `SPACE` - Cheat
 - Climb carefully. Reach the top without falling… or cheating.
 
 ---
@@ -60,13 +65,6 @@ _(Make sure GitHub Pages is enabled in your repository settings)_
 
 ---
 
-## 📷 Screenshot
-
-> *(Replace the image below with your own screenshot)*
-
-![screenshot](./preview.png)
-
----
 
 ## 📄 License
 
@@ -75,7 +73,14 @@ Feel free to remix, expand, or adapt it — just don’t forget to climb honestl
 
 ---
 
+## 🎨 Visual Credit
+
+Visual style and cityscape design inspired by  
+[Pixelblog #14 by Slynyrd](https://www.slynyrd.com/blog/2019/2/23/pixelblog-14-cityscapes)
+
+---
+
 ## ✨ Author
 
 Developed by **Youhui Pang**  
-Designed with love for pixels, patience, and poetic silence.
+Designed with love for pixels.
