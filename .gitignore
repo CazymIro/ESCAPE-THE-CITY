@@ -1,0 +1,9 @@
+# Ignore PyCharm project files
+.idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore p5.js auto-saved files
+*.tmp
