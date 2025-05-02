@@ -1,4 +1,4 @@
-# 🏙️ Escape the City
+# 🌆 Escape the City
 
 > A minimalist pixel-style platformer built with p5.js — climb, jump, and escape the shadows of the city.
 
