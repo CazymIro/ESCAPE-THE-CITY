@@ -69,7 +69,7 @@ _(Make sure GitHub Pages is enabled in your repository settings)_
 ## 📄 License
 
 This project is licensed under the MIT License.  
-Feel free to remix, expand, or adapt it — just don’t forget to climb honestly. 😉
+Feel free to remix, expand, or adapt it. 
 
 ---
 
